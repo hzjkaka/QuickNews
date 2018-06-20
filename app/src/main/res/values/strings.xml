@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">快阅</string>
+    <string name="action_settings">设置</string>
+
+    <string name="navigation_news">今日资讯</string>
+    <string name="navigation_images">今日美图</string>
+    <string name="navigation_weather">今日天气</string>
+    <string name="navigation_about">介绍</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="name">hzj-kaka</string>
+    <string name="app_description">本APP是基于开源项目“一览”来完善开发的，由此感谢其提供的框架</string>
+    <string name="app_github_url">APP地址：https://github.com/hzjkaka/QuickNews</string>
+    <string name="author">作者：hzjkaka</string>
+    <string name="email">邮箱：990904679@qq.com</string>
+    <string name="blog">GitHub地址：https://github.com/hzjkaka</string>
+
+    <string name="top">头条</string>
+    <string name="nba">体育</string>
+    <string name="cars">足球</string>
+    <string name="jokes">NBA</string>
+
+    <string name="jingxuan">精选</string>
+    <string name="qutu">趣图</string>
+    <string name="meitu">美图</string>
+    <string name="story">故事</string>
+
+    <string name="load_fail">加载数据失败!</string>
+    <string name="title_activity_news_detail">新闻详情</string>
+
+    <string name="image_hit">刷新过于频繁，请稍后再试！</string>
+</resources>
