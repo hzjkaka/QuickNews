@@ -21,3 +21,11 @@ https://github.com/RaphetS/TodayInHistory
 
 一个小时打造新闻app：
 https://github.com/HuRuWo/YiLan
+
+等等，由衷感谢以上开源项目！
+
+问题：
+1.今日图片无法加载：可能是图片库不支持后期会改善
+2.数据加载慢以后会优化.
+
+本项目只是学习参考并无其他作用。
